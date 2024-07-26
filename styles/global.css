@@ -10,24 +10,22 @@
   --text-sm: 400 0.875rem/1.4 var(--font-family);
 
   --text-primary: #292524;
-  --text-secundary: #57534e;
+  --text-secondary: #57534e;
   --text-tertiary: #8f8881;
   --text-highlight: #e43a12;
 
   --surface-primary: #ffffff;
-  --surface-secundary: #fee7d6;
+  --surface-secondary: #fee7d6;
 
   --stroke-default: #d6d3d1;
   --stroke-highlight: #f3541c;
   --semantic-error: #dc2626;
-
-  zoom: 90%;
 }
 
 body {
   overflow: hidden;
   font: var(--text);
-  color: var(--text-secundary);
+  color: var(--text-secondary);
 }
 
 h1,
