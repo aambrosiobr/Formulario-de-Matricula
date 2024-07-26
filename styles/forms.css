@@ -19,3 +19,7 @@ legend {
 aside {
     background: var(--surface-secondary);
 }
+
+fieldset + fieldset {
+margin-top: 3rem;
+}
